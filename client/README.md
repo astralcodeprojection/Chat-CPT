@@ -1,3 +1,1 @@
-# ChatGPT clone from Neural Feed
-
-React 19 Start up template
+Chat CPT project 2025
