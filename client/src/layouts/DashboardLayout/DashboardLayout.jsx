@@ -19,7 +19,7 @@ const DashboardLayout = () => {
 
   return (
     <div className = "dashboardLayout">
-        <div classname = "dashboardMenu">
+        <div className = "dashboardMenu">
           <ChatMenu />
         </div>
         <div className = "dashboardContent">
